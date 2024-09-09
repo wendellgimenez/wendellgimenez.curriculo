@@ -19,3 +19,7 @@ Este projeto inclui uma página HTML que detalha minha trajetória profissional,
 - **Educação e Cursos:** Detalhes sobre minha formação acadêmica e cursos complementares.
 - **Habilidades:** Lista das minhas principais habilidades e competências.
 - **Atividades Extracurriculares:** Informações sobre atividades fora do ambiente de trabalho.
+
+### Acesse o link abaixo para ver a aplicação
+
+wendellgimenez-curriculo.vercel.app
