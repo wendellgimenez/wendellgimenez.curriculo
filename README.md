@@ -20,6 +20,6 @@ Este projeto inclui uma página HTML que detalha minha trajetória profissional,
 - **Habilidades:** Lista das minhas principais habilidades e competências.
 - **Atividades Extracurriculares:** Informações sobre atividades fora do ambiente de trabalho.
 
-### Acesse o link abaixo para ver a aplicação
+### Visualização Online
 
-wendellgimenez-curriculo.vercel.app
+Você pode visualizar o meu currículo online no seguinte link: [wendellgimenez-curriculo.vercel.app](https://wendellgimenez-curriculo.vercel.app).
